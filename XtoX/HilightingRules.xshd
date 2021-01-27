@@ -1,0 +1,8 @@
+﻿<SyntaxDefinition name="C#"
+        xmlns="http://icsharpcode.net/sharpdevelop/syntaxdefinition/2008">
+    <Color name="Debug" foreground="White"/>
+
+    <RuleSet>
+        <Span color="Debug" begin="[DEBUG]"/>
+    </RuleSet>
+</SyntaxDefinition>
